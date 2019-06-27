@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+.body1{
+	background-image:url(bgImg.jpg);height: 100%;width: 100%;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	text-align: center;
+}
+.content{
+	text-align: center;
+	padding-left: auto;
+	padding-top: 15%;
+	padding-right: 10%;
+	font-family: "Agency FB";
+	font-size: 20px;
+		}
+.yy{
+	font-family: "Agency FB";
+	font-size: 50px;
+}
+.zc{
+	padding: 10px 10px;
+	background-color: darkgreen;
+}
+.dl{
+	padding: 10px 10px;
+	background-color: darkgreen;
+}
+.mn{
+	display: none;}
+.biaoti2{
+	background-color: darkkhaki;
+	font-size: 50px;
+	text-align: center;
+}
+
+.dibu2{
+
+	background-color: green;
+	position: fixed;
+	left: 0px;
+	bottom: 0;
+	width: 2000px;
+	height: 100px;
+	text-align: center;
+}
+.naren{
+	font-size: 20px;
+}
+.telephone{
+	font-family: "Agency FB";
+	font-size: 20px;
+}
+.picture1{
+
+	width: 10000px;
+	height: 400px;
+	position: fixed;
+	left: 110px;
+	top:90px;
+
+
+}
+
+.caidan2{
+	padding-left: 0px;
+	background-color: cyan;
+	width: 100px;
+	height: 300px;
+	text-align: left;
+	top: 50px;
+}
+/*.toppass{*/
+/*	*/
+/*	*/
+/*	column-rule-style: initial;*/
+/*	-webkit-column-count: 2;*/
+/*	-webkit-column-gap: 500px;*/
+/*	-webkit-column-rule-style: initial;*/
+/*	-webkit-column-width: 50px;*/
+/*}*/
+.bottom{
+		background-color: cornflowerblue;
+	margin-top: 70px;
+	padding: 30px 0;
+}
+.bottombody{
+	 width: 1200px;
+    margin: 0 auto;
+}
+.bottombody li{
+	    float: left;
+    width: 190px;
+    height: 60px;
+    margin-left: 55px;
+    _margin-left: 44px;
+    padding-left: 55px;
+}
+.bottombody li span{
+	    display: block;
+    padding-left: 15px;
+    border-left: 1px solid #a6a6a6;
+}
+.bottomtitle{
+	text-align: center;
+	font-size: 50px;
+}
+.page2{
+	width: 1200px;
+	margin: auto;
+}
+
+
+
